@@ -14,13 +14,14 @@ We are mainly interested in reverse engineering, cryptography, web/binary vulner
 
 # Members
 
-| member   | note    |
-|:--------:|:-------:|
-| banana   |         |
-| freestar |         |
-| galaxy   |         |
+| member       | note         |
+|:------------:|:-------:|
+| banana       |         |
+| freestar     |         |
+| galaxy       |         |
 | [matta](https://me.matta.kr) | Manager of SSAT and PwningSyndrome |
-| the13    |         |
+| the13        |         |
+| zizihacker   |         |
 
 
 
