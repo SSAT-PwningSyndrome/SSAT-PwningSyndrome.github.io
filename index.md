@@ -12,4 +12,3 @@ PwningSyndrome is an offensive security research group consists of security rese
 
 We are mainly interested in reverse engineering, cryptography, web/binary vulnerabilities, exploitations, and etc.
 
-![img](ssat_logo.png)
