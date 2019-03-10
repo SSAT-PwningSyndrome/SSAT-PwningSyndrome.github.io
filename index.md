@@ -1,4 +1,4 @@
-![img](ssat_logo_black.png)
+![img](ssat_logo_black_small.png)
 
 # SSAT 
 
