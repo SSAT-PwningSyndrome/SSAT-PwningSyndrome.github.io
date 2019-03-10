@@ -1,6 +1,6 @@
 # SSAT 
 
-![img](ssat_logo.png)
+![img](ssat_logo_black.png)
 
 SSAT(Samsung Security Assessment Team) is a CTF team to enjoy the wargames, from PwningSyndrome.
 
@@ -12,4 +12,4 @@ PwningSyndrome is an offensive security research group consists of security rese
 
 We are mainly interested in reverse engineering, cryptography, web/binary vulnerabilities, exploitations, and etc.
 
-![img](ssat_log_black.png)
+![img](ssat_logo.png)
