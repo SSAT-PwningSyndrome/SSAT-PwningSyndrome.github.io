@@ -27,4 +27,4 @@ We are mainly interested in reverse engineering, cryptography, web/binary vulner
 
 ### Contact to us
 
-Please mail to matta(js00n.park (at) samsung.com)
+Please mail to matta(js00n.park(at)samsung.com)
