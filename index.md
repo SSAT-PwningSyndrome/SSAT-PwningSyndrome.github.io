@@ -16,11 +16,11 @@ We are mainly interested in reverse engineering, cryptography, web/binary vulner
 
 | member   | contact | note |
 |:--------:|:-------:|:-----|
-| matta    | js00n.park@samsung.com | Manager of SSAT and PwningSyndrome |
 | banana   |         |      |
-| the13    |         |      |
 | freestar |         |      |
 | galaxy   |         |      |
+| matta    | js00n.park@samsung.com | Manager of SSAT and PwningSyndrome |
+| the13    |         |      |
 
 
 
