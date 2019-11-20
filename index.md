@@ -17,6 +17,7 @@ We are mainly interested in reverse engineering, cryptography, web/binary vulner
 | member       | note         |
 |:------------:|:-------:|
 | banana       |         |
+| einstrasse   |         |
 | freestar     |         |
 | galaxy       |         |
 | greenland_shark|         |
