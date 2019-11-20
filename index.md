@@ -19,6 +19,7 @@ We are mainly interested in reverse engineering, cryptography, web/binary vulner
 | banana       |         |
 | freestar     |         |
 | galaxy       |         |
+| greenland_shark|         |
 | [matta](https://me.matta.kr) | Manager of SSAT and PwningSyndrome |
 | the13        |         |
 | zizihacker   |         |
