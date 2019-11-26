@@ -15,6 +15,7 @@ We are mainly interested in reverse engineering, cryptography, web/binary vulner
 | member       | note         |
 |:------------:|:-------:|
 | banana       |         |
+| determined   |         |
 | einstrasse   |         |
 | freestar     |         |
 | galaxy       |         |
