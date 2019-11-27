@@ -1,4 +1,4 @@
-<img src="ssat.png" width=400>
+![img](ssat_small.png)
 
 # SSAT 
 
