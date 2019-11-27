@@ -12,17 +12,17 @@ We are mainly interested in reverse engineering, cryptography, web/binary vulner
 
 # Members
 
-| member       | note         |
+| member       | note    |
 |:------------:|:-------:|
-| banana       |         |
+| banana       | auditor |
 | determined   |         |
 | einstrasse   |         |
-| freestar     |         |
+| freestar     | advisor |
 | galaxy       |         |
 | greenland_shark|         |
-| [matta](https://me.matta.kr) | Manager of SSAT and PwningSyndrome |
-| the13        |         |
-| zizihacker   |         |
+| [matta](https://me.matta.kr) | manager |
+| the13        | advisor |
+| zizihacker   | advisor |
 
 
 
