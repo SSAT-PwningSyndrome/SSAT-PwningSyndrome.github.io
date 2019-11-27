@@ -20,7 +20,7 @@ We are mainly interested in reverse engineering, cryptography, web/binary vulner
 | freestar     | advisor |
 | galaxy       |         |
 | greenland_shark|         |
-| [matta](https://me.matta.kr) | manager |
+| [matta](https://me.matta.kr) | president |
 | the13        | advisor |
 | zizihacker   | advisor |
 
