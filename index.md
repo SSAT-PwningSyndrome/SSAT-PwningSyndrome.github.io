@@ -1,3 +1,5 @@
+<img src="ssat.png" width=400>
+
 # SSAT 
 
 SSAT(Samsung Security Assessment Team) is a CTF team to enjoy the wargames, from PwningSyndrome.
